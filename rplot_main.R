@@ -1,4 +1,4 @@
-# rplot_main.R - the primary functions for rplot command
+## rplot_main.R - the primary functions for rplot command
 # Yu-Ru Lin
 # date: May 12, 2012
 
